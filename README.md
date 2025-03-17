@@ -1,6 +1,6 @@
-# [Seu Nome] / README.md
+# João Vitor Navarro / README.md
 
-## Olá, eu sou [Seu Nome]! 👋
+## Olá, eu sou [Joao]! 👋
 
 - Estudante de **Ciência da Computação**.
 - Apaixonado(a) por programação, inteligência artificial, análise de dados e soluções tecnológicas inovadoras.
