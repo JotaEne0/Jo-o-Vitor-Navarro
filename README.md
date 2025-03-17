@@ -1,6 +1,6 @@
 # João Vitor Navarro / README.md
 
-## Olá, eu sou [Joao]! 👋
+## Olá, eu sou Joao! 👋
 
 - Estudante de **Ciência da Computação**.
 - Apaixonado(a) por programação, inteligência artificial, análise de dados e soluções tecnológicas inovadoras.
@@ -30,16 +30,6 @@ Estudante de Ciência da Computação
 📍 São Paulo - SP, Brasil  
 👨💻 Estagiário(a) de TI na Prefeitura de São Paulo  
 🔗 [LinkedIn](www.linkedin.com/in/joão-navarro)  
-
----
-
-### Estatísticas do GitHub
-
-| Atividade no GitHub       | Linguagens Mais Usadas       |
-|---------------------------|------------------------------|
-| **Commits:** 5            | JavaScript   ███████░░ 75%   |
-| **Repositórios:** 3       | Html         ████░░░░░ 30%   |
-| **Contribuições:** 1      | Css          ██░░░░░░░ 15%   |
 
 ---
 
